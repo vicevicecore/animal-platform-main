@@ -65,7 +65,7 @@
 2. 适合作为初学者学习使用。
 3. 如果场景适合，可以作为商业使用。
 ### 联系作者
-#### 微信号: SkywalkingPro
+#### 微信号: vice2core
 #### 系统演示地址:
 ```
 登录地址: https://www.skywalking.pro/animal-platform
